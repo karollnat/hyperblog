@@ -1,5 +1,8 @@
 body {
+<<<<<<< HEAD
   background: #1e1f24;
+=======
+>>>>>>> 78cb999857b15f0b43611ea7e52d3ce47c17ab1b
   color: #333;
   text-align: center;
   font-family: Arial;
@@ -17,11 +20,14 @@ body {
   padding: 0.5em;
 }
 
+<<<<<<< HEAD
 #cabecera #logo {
   width: 20px;
   vertical-align: middle;
 }
 
+=======
+>>>>>>> 78cb999857b15f0b43611ea7e52d3ce47c17ab1b
 #cabecera #tagline {
   padding: 0 0 0 1em;
   font-weight: normal;
@@ -40,7 +46,15 @@ body {
   font-size: 20px;
 }
 
+<<<<<<< HEAD
 #post {
   background: white;
   padding: 1em;
+=======
+#footer {
+  background: #777;
+  color: white;
+  text-align: center;
+  padding: 0.5em;
+>>>>>>> 78cb999857b15f0b43611ea7e52d3ce47c17ab1b
 }
